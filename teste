@@ -1,3 +1,4 @@
+# Variable = A container foi a value (string, integer, float, boolean). A variable behaves asif it was the value it contains
 first_name = "Bro"
 food = "pizza"
 email = "Bro123@fake.com"
