@@ -1,4 +1,6 @@
 # Variable = A container foi a value (string, integer, float, boolean). A variable behaves asif it was the value it contains
+
+# Strings
 first_name = "Bro"
 food = "pizza"
 email = "Bro123@fake.com"
@@ -6,3 +8,13 @@ email = "Bro123@fake.com"
 print(f" Hello {first_name}") 
 print(f" You like {food}") 
 print(f" Your email is: {email}") 
+
+# Integers 
+age = 25
+
+# Float
+price = 10.99
+
+# Boolean 
+is_student = True
+print(f"Are you a student?: {is_student}")
