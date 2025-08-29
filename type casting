@@ -1,1 +1,22 @@
 # Typecasting = the process of converting a variable from one data type to another. str(), int(), float(), bool()
+
+name = "Bro Code"
+age = 25
+gpa = 3.2
+is_student = True
+
+print(type(name)) 
+# Will show the class type of the variable
+
+gpa = int(gpa)
+print (gpa)
+#outcome as 3 
+
+print(float(age))
+# output: 3.0
+
+print(bool(name)
+# every variable will output as True, it won't only if its empty
+
+
+
